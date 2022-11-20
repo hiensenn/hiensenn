@@ -2,7 +2,7 @@
 
 - 🔭 Universitário cursando Sistemas de Informação 
 - 📫 Entre em contato comigo via e-mail : hiensenlima@gmail.com
-- ⚡ Curiosidade : Além de codar eu adoro ciências Naturais
+- ⚡ Curiosidade : Além de codar eu adoro Ciências Naturais
 <br>
  <div>
   <a href="https://github.com/hiensenn">
